@@ -1,7 +1,6 @@
 //Write a program to find the sum of n different numbers using 4 functions
-include <stdio.h>
- 
-void main()
+#include <stdio.h>
+ void main()
 {
     int i, num, sum = 0;
  
